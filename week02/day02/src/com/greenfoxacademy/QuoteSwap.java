@@ -16,11 +16,11 @@ public class QuoteSwap{
 
   }
 
-  public static ArrayList quoteSwap(ArrayList newArray){
-    String tem=newArray.get(2);
+  public static ArrayList quoteSwap(ArrayList<String> newArray){
+    String temp= newArray.get(2);
 
     newArray.set(2,newArray.get(5));
-    newArray.set(5,tem);
+    newArray.set(5,temp);
 
     return newArray;
   }
