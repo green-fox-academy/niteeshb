@@ -19,11 +19,7 @@ public class Matchmaking{
 
       couples.add(boys.get(i));
     }
-//    for (int i=0; i<(girls.size());i++){
-////      couples.add(i,girls.get(i));
-//      couples.add(2i,boys.get(i));
-//
-//    }
+
     return couples;
   }
 }
