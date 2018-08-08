@@ -1,7 +1,7 @@
 package com.greenfoxacademy;
 
-public class GuessMyNumber {
+public class LineInTheMiddle {
   public static void main(String[] args) {
-    
+
   }
 }
