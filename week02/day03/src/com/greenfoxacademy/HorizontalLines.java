@@ -13,17 +13,24 @@ public class HorizontalLines {
     // The x and y coordinates of the line's starting point
     // and draws a 50 long horizontal line from that point.
     // Draw 3 lines with that function. Use loop for that.
+    Scanner userinput = new Scanner(System.in);
+    for (int i = 1; i <= 3; i++) {
+      System.out.println("Enter the X cordinate for " + i + " Line");
+      int xCordinate = userinput.nextInt();
+      System.out.println("Enter the Y cordinate for " + i + " Line");
+      int yCordinate = userinput.nextInt();
 
+      drawLineFuction(xCordinate, yCordinate, graphics);
 
-    Scanner userinput=new Scanner(System.in);
-    for (int i=1;i<=3; i++){
-      System.out.println("Enter the X cordinate for "+ i +" Line");
-      int xCordinate=userinput.nextInt();
-      System.out.println("Enter the Y cordinate for "+ i +" Line");
-      int yCordinate=userinput.nextInt();
+    }
+
+    
+  }
+    public static void drawLineFuction(int x,int y, Graphics graphics) {
+    {
 
       graphics.setColor(Color.GREEN);
-      graphics.drawLine(xCordinate, yCordinate, xCordinate+50,yCordinate);
+      graphics.drawLine(x, y, x+50,y);
 
 
     }
