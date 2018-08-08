@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdfd2986-7222-430b-b3c2-ecddc27b3b95" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/com/greenfoxacademy/LineInTheMiddle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/greenfoxacademy/LineInTheMiddle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/greenfoxacademy/GoToCenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/greenfoxacademy/GoToCenter.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,22 +21,22 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="5" />
+          <entry key="java" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="5" />
+          <entry key="JAVA" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="260" />
+          <entry key="java" value="512" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="260" />
+          <entry key="JAVA" value="512" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.spring.boot.mvc.usages" />
@@ -79,11 +79,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/greenfoxacademy/Diagonals.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
-              <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+              <caret line="17" column="42" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="17" selection-end-column="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/greenfoxacademy/GoToCenter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -111,6 +123,7 @@
         <option value="$PROJECT_DIR$/src/com/greenfoxacademy/LineInTheMiddle.java" />
         <option value="$PROJECT_DIR$/src/com/greenfoxacademy/ColoredBox.java" />
         <option value="$PROJECT_DIR$/src/com/greenfoxacademy/Diagonals.java" />
+        <option value="$PROJECT_DIR$/src/com/greenfoxacademy/GoToCenter.java" />
       </list>
     </option>
   </component>
@@ -161,7 +174,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533725295292" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533726299219" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../day02" />
   </component>
   <component name="RunDashboard">
@@ -176,7 +189,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Diagonals">
+  <component name="RunManager" selected="Application.GoToCenter">
     <configuration name="ColoredBox" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.greenfoxacademy.ColoredBox" />
       <module name="day03" />
@@ -192,6 +205,19 @@
     </configuration>
     <configuration name="Diagonals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.greenfoxacademy.Diagonals" />
+      <module name="day03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.greenfoxacademy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GoToCenter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.greenfoxacademy.GoToCenter" />
       <module name="day03" />
       <extension name="coverage">
         <pattern>
@@ -231,9 +257,11 @@
       <item itemvalue="Application.LineInTheMiddle" />
       <item itemvalue="Application.ColoredBox" />
       <item itemvalue="Application.Diagonals" />
+      <item itemvalue="Application.GoToCenter" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GoToCenter" />
         <item itemvalue="Application.Diagonals" />
         <item itemvalue="Application.ColoredBox" />
         <item itemvalue="Application.LineInTheMiddle" />
@@ -251,16 +279,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1533711556894</updated>
-      <workItem from="1533711562597" duration="4736000" />
+      <workItem from="1533711562597" duration="5743000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4736000" />
+    <option name="totallyTimeSpent" value="5743000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
@@ -336,7 +363,17 @@
     <entry file="file://$PROJECT_DIR$/src/com/greenfoxacademy/Diagonals.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
-          <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+          <caret line="17" column="42" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="17" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/greenfoxacademy/GoToCenter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
