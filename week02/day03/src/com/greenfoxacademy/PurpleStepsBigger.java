@@ -1,26 +1,26 @@
 package com.greenfoxacademy;
 
+
 import javax.swing.*;
 
 import java.awt.*;
+import java.util.Scanner;
 
 import static javax.swing.JFrame.EXIT_ON_CLOSE;
 
-public class FourRectangles {
+public class PurpleStepsBigger {
 
   public static void mainDraw(Graphics graphics) {
-    // draw four different size and color rectangles.
-    // avoid code duplication.
-    rectangle(0, 10, graphics, Color.RED);
-    rectangle(0, 100, graphics, Color.GREEN);
-    rectangle(50, 10, graphics, Color.BLUE);
-    rectangle(50, 100, graphics, Color.ORANGE);
-  }
 
-  public static void rectangle(int x, int y, Graphics graphic, Color color) {
-    graphic.setColor(color);
-    graphic.drawRect(x, y, 10, 10);
+    int x = 10;
 
+    for (int i = 1; i <= 10; i++) {
+
+      graphics.setColor(Color.GREEN);
+      graphics.fillRect(x, x, x, x);
+      x *= 2;
+
+    }
   }
 
 

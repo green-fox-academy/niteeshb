@@ -1,4 +1,5 @@
 package com.greenfoxacademy;
+
 import javax.swing.*;
 
 import java.awt.*;
@@ -23,14 +24,11 @@ public class CenterBoxFunction {
 
     }
   }
-  public static void drawSquareFuction(int size,  Graphics graphics) {
+
+  public static void drawSquareFuction(int size, Graphics graphics) {
     graphics.setColor(Color.GREEN);
-    graphics.drawRect(WIDTH/2-size/2, HEIGHT/2-size/2, size, size);
+    graphics.drawRect(WIDTH / 2 - size / 2, HEIGHT / 2 - size / 2, size, size);
   }
-
-
-
-
 
 
   //    Don't touch the code below
@@ -45,7 +43,8 @@ public class CenterBoxFunction {
     jFrame.setLocationRelativeTo(null);
     jFrame.setVisible(true);
   }
-  static class ImagePanel extends JPanel{
+
+  static class ImagePanel extends JPanel {
     @Override
     protected void paintComponent(Graphics graphics) {
       super.paintComponent(graphics);

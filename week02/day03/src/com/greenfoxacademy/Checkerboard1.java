@@ -1,26 +1,29 @@
 package com.greenfoxacademy;
 
+
 import javax.swing.*;
 
 import java.awt.*;
+import java.util.Scanner;
 
 import static javax.swing.JFrame.EXIT_ON_CLOSE;
 
-public class FourRectangles {
+public class Checkerboard1 {
 
   public static void mainDraw(Graphics graphics) {
-    // draw four different size and color rectangles.
-    // avoid code duplication.
-    rectangle(0, 10, graphics, Color.RED);
-    rectangle(0, 100, graphics, Color.GREEN);
-    rectangle(50, 10, graphics, Color.BLUE);
-    rectangle(50, 100, graphics, Color.ORANGE);
-  }
 
-  public static void rectangle(int x, int y, Graphics graphic, Color color) {
-    graphic.setColor(color);
-    graphic.drawRect(x, y, 10, 10);
+    int x = 0;
 
+    for (int col = 0; col <= HEIGHT; col+=10) {
+
+      for (int row=0; row<=WIDTH;row+=10)
+
+        if((((col/10)%2==0) && (row/10)%2!=0) || ((((col/10)%2!=0) && (row/10)%2==0))) {
+          graphics.setColor(Color.GREEN);
+          graphics.fillRect(row, col, 10, 10);
+          x *= 2;
+        }
+    }
   }
 
 

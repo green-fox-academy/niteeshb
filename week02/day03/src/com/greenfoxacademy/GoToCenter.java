@@ -1,4 +1,5 @@
 package com.greenfoxacademy;
+
 import javax.swing.*;
 
 import java.awt.*;
@@ -14,15 +15,15 @@ public class GoToCenter {
     // Draw 3 lines with that function. Use loop for that.
 
 
-    Scanner userinput=new Scanner(System.in);
-    for (int i=1;i<=3; i++){
-      System.out.println("Enter the X cordinate for "+ i +" Line");
-      int xCordinate=userinput.nextInt();
-      System.out.println("Enter the Y cordinate for "+ i +" Line");
-      int yCordinate=userinput.nextInt();
+    Scanner userinput = new Scanner(System.in);
+    for (int i = 1; i <= 3; i++) {
+      System.out.println("Enter the X cordinate for " + i + " Line");
+      int xCordinate = userinput.nextInt();
+      System.out.println("Enter the Y cordinate for " + i + " Line");
+      int yCordinate = userinput.nextInt();
 
       graphics.setColor(Color.GREEN);
-      graphics.drawLine(xCordinate, yCordinate, WIDTH/2,HEIGHT/2);
+      graphics.drawLine(xCordinate, yCordinate, WIDTH / 2, HEIGHT / 2);
 
 
     }

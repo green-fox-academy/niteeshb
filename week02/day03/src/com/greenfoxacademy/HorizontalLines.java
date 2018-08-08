@@ -26,11 +26,12 @@ public class HorizontalLines {
 
 
   }
-    public static void drawLineFuction(int x,int y, Graphics graphics) {
+
+  public static void drawLineFuction(int x, int y, Graphics graphics) {
     {
 
       graphics.setColor(Color.GREEN);
-      graphics.drawLine(x, y, x+50,y);
+      graphics.drawLine(x, y, x + 50, y);
 
 
     }
