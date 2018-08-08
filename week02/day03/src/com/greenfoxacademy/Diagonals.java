@@ -1,22 +1,21 @@
 package com.greenfoxacademy;
 
-
 import javax.swing.*;
 
-        import java.awt.*;
+import java.awt.*;
 
-        import static javax.swing.JFrame.EXIT_ON_CLOSE;
+import static javax.swing.JFrame.EXIT_ON_CLOSE;
 
-public class LineInTheMiddle {
-  public static void mainDraw(Graphics graphics){
-    // draw a red horizontal line to the canvas' middle.
-    // draw a green vertical line to the canvas' middle.
-    graphics.setColor(Color.RED);
-    graphics.drawLine(0, HEIGHT/2,WIDTH, HEIGHT/2);
+public class Diagonals {
+  public static void mainDraw(Graphics graphics) {
+    // Draw the canvas' diagonals.
+    // If it starts from the upper-left corner it should be green, otherwise it should be red.
 
     graphics.setColor(Color.GREEN);
-    graphics.drawLine(WIDTH/2, 0,WIDTH/2, HEIGHT);
+    graphics.drawLine(0, 0, WIDTH,HEIGHT);
 
+    graphics.setColor(Color.RED);
+    graphics.drawLine(0, HEIGHT,WIDTH, 0);
 
 
   }
