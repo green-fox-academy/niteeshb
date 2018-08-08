@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdfd2986-7222-430b-b3c2-ecddc27b3b95" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/com/greenfoxacademy/CenterBoxFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/greenfoxacademy/CenterBoxFunction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/greenfoxacademy/CenteredSquare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/greenfoxacademy/CenteredSquare.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/greenfoxacademy/FourRectangles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/greenfoxacademy/FourRectangles.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/greenfoxacademy/GoToCenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/greenfoxacademy/GoToCenter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/greenfoxacademy/HorizontalLines.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/greenfoxacademy/HorizontalLines.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/greenfoxacademy/LineInTheMiddle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/greenfoxacademy/LineInTheMiddle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/greenfoxacademy/PurpleSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/greenfoxacademy/PurpleSteps.java" afterDir="false" />
-    </list>
+    <list default="true" id="cdfd2986-7222-430b-b3c2-ecddc27b3b95" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,22 +24,22 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="15" />
+          <entry key="java" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="15" />
+          <entry key="JAVA" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1612" />
+          <entry key="java" value="1639" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1612" />
+          <entry key="JAVA" value="1639" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.spring.boot.mvc.usages" />
@@ -72,8 +64,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/greenfoxacademy/PurpleStepsBigger.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="19" column="27" selection-end-line="48" selection-end-column="1" />
+            <state relative-caret-position="272">
+              <caret line="28" column="26" lean-forward="true" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -84,8 +76,44 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/greenfoxacademy/Checkerboard1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="23" column="17" lean-forward="true" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+            <state relative-caret-position="137">
+              <caret line="16" column="47" lean-forward="true" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/greenfoxacademy/FunctionToCenter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="28" column="36" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/greenfoxacademy/ConnectTheDots.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="166">
+              <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/greenfoxacademy/GoToCenter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="292">
+              <caret line="28" column="5" lean-forward="true" selection-start-line="17" selection-start-column="3" selection-end-line="28" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -148,6 +176,8 @@
         <option value="$PROJECT_DIR$/src/com/greenfoxacademy/FourRectangles.java" />
         <option value="$PROJECT_DIR$/src/com/greenfoxacademy/Checkerboard.java" />
         <option value="$PROJECT_DIR$/src/com/greenfoxacademy/Checkerboard1.java" />
+        <option value="$PROJECT_DIR$/src/com/greenfoxacademy/FunctionToCenter.java" />
+        <option value="$PROJECT_DIR$/src/com/greenfoxacademy/ConnectTheDots.java" />
       </list>
     </option>
   </component>
@@ -157,7 +187,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="1" />
     <option name="width" value="1024" />
     <option name="height" value="678" />
@@ -198,7 +228,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533738781240" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533742418839" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../day02" />
   </component>
   <component name="RunDashboard">
@@ -214,8 +244,8 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.Checkerboard1">
-    <configuration name="CenterBoxFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.greenfoxacademy.CenterBoxFunction" />
+    <configuration name="Checkerboard1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.greenfoxacademy.Checkerboard1" />
       <module name="day03" />
       <extension name="coverage">
         <pattern>
@@ -227,8 +257,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Checkerboard1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.greenfoxacademy.Checkerboard1" />
+    <configuration name="FunctionToCenter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.greenfoxacademy.FunctionToCenter" />
       <module name="day03" />
       <extension name="coverage">
         <pattern>
@@ -280,19 +310,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.CenterBoxFunction" />
       <item itemvalue="Application.RainbowBoxFunction" />
       <item itemvalue="Application.PurpleSteps" />
       <item itemvalue="Application.PurpleStepsBigger" />
       <item itemvalue="Application.Checkerboard1" />
+      <item itemvalue="Application.FunctionToCenter" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Checkerboard1" />
+        <item itemvalue="Application.FunctionToCenter" />
         <item itemvalue="Application.PurpleStepsBigger" />
         <item itemvalue="Application.PurpleSteps" />
         <item itemvalue="Application.RainbowBoxFunction" />
-        <item itemvalue="Application.CenterBoxFunction" />
       </list>
     </recent_temporary>
   </component>
@@ -306,15 +336,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1533711556894</updated>
-      <workItem from="1533711562597" duration="16897000" />
+      <workItem from="1533711562597" duration="19186000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16897000" />
+    <option name="totallyTimeSpent" value="19186000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
@@ -353,7 +383,7 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.3547655" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.3547655" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" />
@@ -361,7 +391,7 @@
       <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.32843137" />
+      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.32843137" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Messages" order="8" weight="0.32843137" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
@@ -444,16 +474,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/greenfoxacademy/GoToCenter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="21" column="16" selection-end-line="52" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/greenfoxacademy/LineInTheMiddle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -504,6 +524,46 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/greenfoxacademy/GoToCenter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="28" column="5" lean-forward="true" selection-start-line="17" selection-start-column="3" selection-end-line="28" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/greenfoxacademy/ConnectTheDots.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/greenfoxacademy/FunctionToCenter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="28" column="36" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/greenfoxacademy/PurpleStepsBigger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="28" column="26" lean-forward="true" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/greenfoxacademy/FourRectangles.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -514,20 +574,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/greenfoxacademy/PurpleStepsBigger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="19" column="27" selection-end-line="48" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/greenfoxacademy/Checkerboard1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="23" column="17" lean-forward="true" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+        <state relative-caret-position="137">
+          <caret line="16" column="47" lean-forward="true" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
