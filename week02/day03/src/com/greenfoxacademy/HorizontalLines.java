@@ -1,4 +1,5 @@
 package com.greenfoxacademy;
+
 import javax.swing.*;
 
 import java.awt.*;
@@ -6,11 +7,11 @@ import java.util.Scanner;
 
 import static javax.swing.JFrame.EXIT_ON_CLOSE;
 
-public class GoToCenter {
+public class HorizontalLines {
   public static void mainDraw(Graphics graphics) {
     // Create a line drawing function that takes 2 parameters:
     // The x and y coordinates of the line's starting point
-    // and draws a line from that point to the center of the canvas.
+    // and draws a 50 long horizontal line from that point.
     // Draw 3 lines with that function. Use loop for that.
 
 
@@ -22,7 +23,7 @@ public class GoToCenter {
       int yCordinate=userinput.nextInt();
 
       graphics.setColor(Color.GREEN);
-      graphics.drawLine(xCordinate, yCordinate, WIDTH/2,HEIGHT/2);
+      graphics.drawLine(xCordinate, yCordinate, xCordinate+50,yCordinate);
 
 
     }
