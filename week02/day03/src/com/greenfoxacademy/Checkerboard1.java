@@ -13,14 +13,16 @@ public class Checkerboard1 {
   public static void mainDraw(Graphics graphics) {
 
     int x = 0;
+    int size = 20;
+    for (int col = 0; col <= 3*HEIGHT; col += size) {
 
-    for (int col = 0; col <= HEIGHT; col+=10) {
+      for (int row = 0; row <= 3*WIDTH; row += size)
 
-      for (int row=0; row<=WIDTH;row+=10)
+        if ((((col / size) % 2 == 0) && (row / size
+        ) % 2 != 0) || ((((col / size) % 2 != 0) && (row / size) % 2 == 0))) {
 
-        if((((col/10)%2==0) && (row/10)%2!=0) || ((((col/10)%2!=0) && (row/10)%2==0))) {
-          graphics.setColor(Color.GREEN);
-          graphics.fillRect(row, col, 10, 10);
+          graphics.setColor(new Color(((int)(Math.random()*255)),((int)(Math.random()*255)),((int)(Math.random()*255))));
+          graphics.fillRect(row, col, size, size);
           x *= 2;
         }
     }
