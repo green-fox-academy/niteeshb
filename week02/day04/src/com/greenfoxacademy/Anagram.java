@@ -1,5 +1,4 @@
 package com.greenfoxacademy;
 
-public class anagram {
-  psv
+public class Anagram {
 }

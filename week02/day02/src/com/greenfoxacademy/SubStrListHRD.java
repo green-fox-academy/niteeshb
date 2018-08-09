@@ -1,6 +1,9 @@
 package com.greenfoxacademy;
 
 
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Scanner;
 
 public class SubStrListHRD {
   public static void main(String[] args) {
@@ -29,7 +32,7 @@ public class SubStrListHRD {
     for (int i=0;i<searchArr.size();i++){
      String listElement=searchArr.get(i);
       if (listElement.contains(subString)){
-        System.out.println(subString + "is found in Element with index : "+ i);
+        System.out.println(subString + " is found in Element with index : "+ i + " in " + searchArr.get(i));
         result=1;
     }
   }
