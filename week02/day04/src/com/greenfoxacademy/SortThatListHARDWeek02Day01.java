@@ -15,18 +15,18 @@ public class SortThatListHARDWeek02Day01 {
 //        should print [5, 9, 12, 24, 34]
 //      System.out.println(advancedBubble(new int[] {34, 12, 24, 9, 5}, true));
     //  should print [34, 24, 12, 9, 5]
-   int bubble[]={34, 12, 24, 9, 5};
-   for (int i=0; i<bubble.length;i++){
-     for (int j=i;j<bubble.length; j++){
-       int temp=0;
-       if (bubble[i]>bubble[j]){
-         temp=bubble[i];
-         bubble[i]=bubble[j];
-         bubble[j]=temp;
-       }
-     }
-   }
-   for (int i:bubble)
-     System.out.print(i+ " ,");
+    int bubble[] = {34, 12, 24, 9, 5};
+    for (int i = 0; i < bubble.length; i++) {
+      for (int j = i; j < bubble.length; j++) {
+        int temp = 0;
+        if (bubble[i] > bubble[j]) {
+          temp = bubble[i];
+          bubble[i] = bubble[j];
+          bubble[j] = temp;
+        }
+      }
+    }
+    for (int i : bubble)
+      System.out.print(i + " ,");
   }
 }

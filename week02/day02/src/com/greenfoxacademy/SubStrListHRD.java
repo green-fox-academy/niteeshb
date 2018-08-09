@@ -19,25 +19,25 @@ public class SubStrListHRD {
 //    System.out.println(subStrList("not", searchArr));
     //  should print: `-1`
 
-    ArrayList<String> searchArr =new ArrayList<>(Arrays.asList("this", "is", "what", "I'm", "searching"));
-    Scanner userinput=new Scanner(System.in);
+    ArrayList<String> searchArr = new ArrayList<>(Arrays.asList("this", "is", "what", "I'm", "searching"));
+    Scanner userinput = new Scanner(System.in);
     System.out.println("Enter the String you want to serach as Sub-String in List");
-    String subString=userinput.nextLine();
+    String subString = userinput.nextLine();
     subInt(subString, searchArr);
   }
 
-  public static void subInt(String subString, ArrayList<String> searchArr ){
-    int result=0;
+  public static void subInt(String subString, ArrayList<String> searchArr) {
+    int result = 0;
 
-    for (int i=0;i<searchArr.size();i++){
-     String listElement=searchArr.get(i);
-      if (listElement.contains(subString)){
-        System.out.println(subString + " is found in Element with index : "+ i + " in " + searchArr.get(i));
-        result=1;
+    for (int i = 0; i < searchArr.size(); i++) {
+      String listElement = searchArr.get(i);
+      if (listElement.contains(subString)) {
+        System.out.println(subString + " is found in Element with index : " + i + " in " + searchArr.get(i));
+        result = 1;
+      }
+    }
+    if (result == 0) {
+      System.out.println("sub string not found");
     }
   }
-  if (result==0){
-    System.out.println("sub string not found");
-  }
-}
 }

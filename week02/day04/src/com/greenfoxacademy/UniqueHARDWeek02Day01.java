@@ -12,7 +12,7 @@ public class UniqueHARDWeek02Day01 {
     Scanner userinput = new Scanner(System.in);
 //    System.out.println("enter the numbers that you want to enter in the array");
 //    int lengthOfArray=userinput.nextInt();
-    ArrayList<Integer> array = new ArrayList<>(Arrays.asList(1, 76, 11, 34, 11, 52, 61, 1,23, 34));
+    ArrayList<Integer> array = new ArrayList<>(Arrays.asList(1, 76, 11, 34, 11, 52, 61, 1, 23, 34));
     ArrayList<Integer> newArray = new ArrayList<>();
     newArray.add(array.get(0));
     //System.out.println("enter the array elements");

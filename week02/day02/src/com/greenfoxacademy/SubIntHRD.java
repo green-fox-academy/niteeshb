@@ -15,21 +15,21 @@ public class SubIntHRD {
 //      should print: `[0, 1, 4]`
 //    System.out.println(subInt(9, new int[] {1, 11, 34, 52, 61}));
 //      should print: '[]'
-    ArrayList<Integer> listOfInteger=new ArrayList<>(Arrays.asList(1,11,34,52,61));
-    Scanner userinput=new Scanner(System.in);
+    ArrayList<Integer> listOfInteger = new ArrayList<>(Arrays.asList(1, 11, 34, 52, 61));
+    Scanner userinput = new Scanner(System.in);
     System.out.println("Enter the number you want to serach as Sub-Integer in List");
-    int subInteger=userinput.nextInt();
+    int subInteger = userinput.nextInt();
     System.out.println(subInt(subInteger, listOfInteger));
   }
 
-  public static String subInt(Integer subInteger, ArrayList<Integer> listOfInteger){
-    String result="";
-    String stringOfSubElement=subInteger.toString();
+  public static String subInt(Integer subInteger, ArrayList<Integer> listOfInteger) {
+    String result = "";
+    String stringOfSubElement = subInteger.toString();
 
-    for (int i=0;i<listOfInteger.size();i++){
-      String stringOfListElement= (listOfInteger.get(i)).toString();
-      if (stringOfListElement.contains(stringOfSubElement)){
-      result=result+stringOfListElement+" ,";
+    for (int i = 0; i < listOfInteger.size(); i++) {
+      String stringOfListElement = (listOfInteger.get(i)).toString();
+      if (stringOfListElement.contains(stringOfSubElement)) {
+        result = result + stringOfListElement + " ,";
       }
     }
 

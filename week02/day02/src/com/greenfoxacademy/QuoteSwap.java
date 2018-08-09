@@ -1,8 +1,9 @@
 package com.greenfoxacademy;
+
 import java.util.*;
 
-public class QuoteSwap{
-  public static void main(String... args){
+public class QuoteSwap {
+  public static void main(String... args) {
     ArrayList<String> list = new ArrayList<String>(Arrays.asList("What", "I", "do", "create,", "I", "cannot", "not", "understand."));
 
     // Accidentally I messed up this quote from Richard Feynman.
@@ -16,11 +17,11 @@ public class QuoteSwap{
 
   }
 
-  public static ArrayList quoteSwap(ArrayList<String> newArray){
-    String temp= newArray.get(2);
+  public static ArrayList quoteSwap(ArrayList<String> newArray) {
+    String temp = newArray.get(2);
 
-    newArray.set(2,newArray.get(5));
-    newArray.set(5,temp);
+    newArray.set(2, newArray.get(5));
+    newArray.set(5, temp);
 
     return newArray;
   }

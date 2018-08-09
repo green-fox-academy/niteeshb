@@ -13,23 +13,23 @@ public class CheckerBoard2 {
 
 
     int size = 5;
-    int x=0;
-    for (int col = 0; col <= 3*HEIGHT; col += size) {
+    int x = 0;
+    for (int col = 0; col <= 3 * HEIGHT; col += size) {
       int y = 0;
-      for (int row = 0; row <= 3 * WIDTH; row += size){
+      for (int row = 0; row <= 3 * WIDTH; row += size) {
 
-        if ((x+y)%2!=0) {
+        if ((x + y) % 2 != 0) {
 
           graphics.setColor(new Color(((int) (Math.random() * 255)), ((int) (Math.random() * 255)), ((int) (Math.random() * 255))));
           graphics.fillRect(row, col, size, size);
 
-        } else{
+        } else {
           graphics.setColor(Color.RED);
           graphics.fillRect(row, col, size, size);
         }
-        y+=1;
+        y += 1;
       }
-      x+=1;
+      x += 1;
     }
   }
 

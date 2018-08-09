@@ -13,7 +13,7 @@ public class PalindromeHardWeek02Day02 {
       int beforeI = i - 1;
       while (sentence.charAt(afterI) == sentence.charAt(beforeI)) {
         System.out.println(sentence.substring(beforeI, afterI + 1));
-        if (afterI > (sentence.length()-1) || beforeI < 1) {
+        if (afterI > (sentence.length() - 1) || beforeI < 1) {
           break;
         } else {
 
@@ -22,10 +22,10 @@ public class PalindromeHardWeek02Day02 {
         }
 
       }
-      while (sentence.charAt(afterI-1 ) == sentence.charAt(beforeI )) {
-        System.out.println(sentence.substring(beforeI-1, afterI+1));
+      while (sentence.charAt(afterI - 1) == sentence.charAt(beforeI)) {
+        System.out.println(sentence.substring(beforeI - 1, afterI + 1));
         if (afterI > (sentence.length() - 2) || beforeI < 2) {
-          afterI-=2;
+          afterI -= 2;
           break;
         } else {
 
@@ -33,6 +33,7 @@ public class PalindromeHardWeek02Day02 {
           afterI++;
         }
 
+      }
     }
   }
-}}
+}
