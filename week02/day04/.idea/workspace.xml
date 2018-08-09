@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d3957c29-8180-452d-8872-f6044069421f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../day02/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day02/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,25 +25,25 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="8" />
+          <entry key="JAVA" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="iml" value="1" />
-          <entry key="java" value="8" />
+          <entry key="java" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1122" />
+          <entry key="JAVA" value="1516" />
           <entry key="PLAIN_TEXT" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="15" />
-          <entry key="java" value="1122" />
+          <entry key="java" value="1516" />
         </counts>
       </usages-collector>
     </session>
@@ -62,17 +62,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/greenfoxacademy/PalindromeHardWeek02Day02.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="25" column="55" selection-start-line="25" selection-start-column="55" selection-end-line="25" selection-end-column="55" />
+            <state relative-caret-position="168">
+              <caret line="15" column="17" selection-end-line="38" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/greenfoxacademy/CheckerBoard2.java">
+        <entry file="file://$PROJECT_DIR$/src/com/greenfoxacademy/UniqueHARDWeek02Day01.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="193">
-              <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+            <state relative-caret-position="207">
+              <caret line="20" column="35" selection-end-line="34" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -81,10 +81,31 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/greenfoxacademy/ArmstrongNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="103">
+              <caret line="7" column="56" selection-start-line="7" selection-start-column="56" selection-end-line="7" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/greenfoxacademy/CheckerBoard2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="244">
+              <caret line="17" column="16" selection-end-line="58" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/greenfoxacademy/SortThatListHARDWeek02Day01.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="326">
-              <caret line="29" column="28" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
+            <state relative-caret-position="241">
+              <caret line="24" column="12" selection-end-line="31" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -106,11 +127,13 @@
       <list>
         <option value="$PROJECT_DIR$/src/com/greenfoxacademy/Main.java" />
         <option value="$PROJECT_DIR$/src/com/greenfoxacademy/jsd.java" />
-        <option value="$PROJECT_DIR$/src/com/greenfoxacademy/PalindromeHardWeek02Day02.java" />
         <option value="$PROJECT_DIR$/src/com/greenfoxacademy/Unique.java" />
-        <option value="$PROJECT_DIR$/src/com/greenfoxacademy/UniqueHARDWeek02Day01.java" />
         <option value="$PROJECT_DIR$/src/com/greenfoxacademy/PalindromeBuilder.java" />
         <option value="$PROJECT_DIR$/src/com/greenfoxacademy/SortThatListHARDWeek02Day01.java" />
+        <option value="$PROJECT_DIR$/src/com/greenfoxacademy/CheckerBoard2.java" />
+        <option value="$PROJECT_DIR$/src/com/greenfoxacademy/PalindromeHardWeek02Day02.java" />
+        <option value="$PROJECT_DIR$/src/com/greenfoxacademy/UniqueHARDWeek02Day01.java" />
+        <option value="$PROJECT_DIR$/src/com/greenfoxacademy/ArmstrongNumber.java" />
       </list>
     </option>
   </component>
@@ -120,7 +143,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="1" />
     <option name="width" value="1024" />
     <option name="height" value="678" />
@@ -162,7 +185,7 @@
     <property name="SearchEverywhereHistoryKey" value="list&#9;PSI&#9;JAVA://java.awt.List" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533825687889" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533828636004" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../day01" />
   </component>
   <component name="RunDashboard">
@@ -177,13 +200,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SortThatListHARDWeek02Day01">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.greenfoxacademy.Main" />
+  <component name="RunManager" selected="Application.ArmstrongNumber">
+    <configuration name="ArmstrongNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.greenfoxacademy.ArmstrongNumber" />
       <module name="day04" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.greenfoxacademy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -235,14 +261,15 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.PalindromeHardWeek02Day02" />
       <item itemvalue="Application.UniqueHARDWeek02Day01" />
       <item itemvalue="Application.PalindromeBuilder" />
       <item itemvalue="Application.SortThatListHARDWeek02Day01" />
+      <item itemvalue="Application.ArmstrongNumber" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArmstrongNumber" />
         <item itemvalue="Application.SortThatListHARDWeek02Day01" />
         <item itemvalue="Application.PalindromeBuilder" />
         <item itemvalue="Application.PalindromeHardWeek02Day02" />
@@ -260,12 +287,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1533799208121</updated>
-      <workItem from="1533799315709" duration="13487000" />
+      <workItem from="1533799315709" duration="15885000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13487000" />
+    <option name="totallyTimeSpent" value="15885000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -329,27 +356,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/greenfoxacademy/UniqueHARDWeek02Day01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="17" column="53" lean-forward="true" selection-start-line="17" selection-start-column="53" selection-end-line="17" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/greenfoxacademy/Anagram.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="22" lean-forward="true" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/greenfoxacademy/PalindromeHardWeek02Day02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="25" column="55" selection-start-line="25" selection-start-column="55" selection-end-line="25" selection-end-column="55" />
         </state>
       </provider>
     </entry>
@@ -360,20 +370,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/greenfoxacademy/SortThatListHARDWeek02Day01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="24" column="12" selection-end-line="31" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/greenfoxacademy/CheckerBoard2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        <state relative-caret-position="244">
+          <caret line="17" column="16" selection-end-line="58" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/greenfoxacademy/SortThatListHARDWeek02Day01.java">
+    <entry file="file://$PROJECT_DIR$/src/com/greenfoxacademy/PalindromeHardWeek02Day02.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="29" column="28" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
+        <state relative-caret-position="168">
+          <caret line="15" column="17" selection-end-line="38" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/greenfoxacademy/UniqueHARDWeek02Day01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="20" column="35" selection-end-line="34" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/greenfoxacademy/ArmstrongNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="7" column="56" selection-start-line="7" selection-start-column="56" selection-end-line="7" selection-end-column="56" />
         </state>
       </provider>
     </entry>
