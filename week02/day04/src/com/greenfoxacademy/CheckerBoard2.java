@@ -12,7 +12,7 @@ public class CheckerBoard2 {
   public static void mainDraw(Graphics graphics) {
 
 
-    int size = 5;
+    int size = 2;
     int x = 0;
     for (int col = 0; col <= 3 * HEIGHT; col += size) {
       int y = 0;

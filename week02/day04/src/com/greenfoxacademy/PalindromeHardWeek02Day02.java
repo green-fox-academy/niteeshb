@@ -13,7 +13,7 @@ public class PalindromeHardWeek02Day02 {
       int beforeI = i - 1;
       while (sentence.charAt(afterI) == sentence.charAt(beforeI)) {
         System.out.println(sentence.substring(beforeI, afterI + 1));
-        if (afterI > (sentence.length() - 1) || beforeI < 1) {
+        if (afterI >= (sentence.length() - 1) || beforeI < 1) {
           break;
         } else {
 
@@ -32,8 +32,13 @@ public class PalindromeHardWeek02Day02 {
           beforeI--;
           afterI++;
         }
-
-      }
+//        palinilappa
+//      if((beforeI>=0)&&(z<sentence.length())){
+//        if ((sentence.substring(beforeI,i)).equals(sentence.substring(afterI, z+1))) {
+//        System.out.println(sentence.substring(i - 1, 4));
+//      }
+//
+//      }
     }
   }
-}
+}}
