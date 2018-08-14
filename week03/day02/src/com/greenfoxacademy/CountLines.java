@@ -17,7 +17,7 @@ Path path= Paths.get("my_file.txt");
       List list= Files.readAllLines(path);
       System.out.println("The number of lines in:  "+ list.size());
     } catch (IOException e) {
-      System.out.println("some prob");;
+      System.out.println(0);;
     }
 
 
