@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d07b69b-1fd6-45ce-b8a1-959aa268c8cb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../day01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day01/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day04/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day04/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day05/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day05/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day05/out/production/day05/com/greenfoxacademy/JosephusProblem.class" beforeDir="false" afterPath="$PROJECT_DIR$/../day05/out/production/day05/com/greenfoxacademy/JosephusProblem.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day05/src/com/greenfoxacademy/JosephusProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day05/src/com/greenfoxacademy/JosephusProblem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/greenfoxacademy/QuoteSwap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/greenfoxacademy/QuoteSwap.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,23 +15,24 @@
     <session id="-1331928036">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="11" />
-          <entry key="java" value="3596" />
+          <entry key="java" value="3634" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3596" />
+          <entry key="JAVA" value="3634" />
           <entry key="PLAIN_TEXT" value="11" />
         </counts>
       </usages-collector>
@@ -57,11 +53,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/greenfoxacademy/Reverse.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
-              <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+              <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -70,7 +66,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/greenfoxacademy/SolarSystem.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="357">
-              <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+              <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -93,11 +89,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/greenfoxacademy/QuoteSwap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="14" selection-end-line="27" selection-end-column="1" />
+            <state relative-caret-position="442">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
             </state>
           </provider>
         </entry>
@@ -123,8 +119,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/greenfoxacademy/SubIntHRD.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="267">
-              <caret line="22" column="3" lean-forward="true" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
+            <state relative-caret-position="340">
+              <caret line="22" column="3" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -135,7 +131,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/greenfoxacademy/SubStrListHRD.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
+            <state relative-caret-position="510">
               <caret line="32" column="28" selection-end-line="42" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -147,8 +143,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/greenfoxacademy/CalculatorGD.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="33" column="32" lean-forward="true" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
+            <state relative-caret-position="561">
+              <caret line="33" column="32" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -187,10 +183,10 @@
         <option value="$PROJECT_DIR$/src/com/greenfoxacademy/SubStrList.java" />
         <option value="$PROJECT_DIR$/src/com/greenfoxacademy/Matchmaking.java" />
         <option value="$PROJECT_DIR$/src/com/greenfoxacademy/IsInList.java" />
-        <option value="$PROJECT_DIR$/src/com/greenfoxacademy/QuoteSwap.java" />
         <option value="$PROJECT_DIR$/src/com/greenfoxacademy/HeWillNever.java" />
         <option value="$PROJECT_DIR$/src/com/greenfoxacademy/SubIntHRD.java" />
         <option value="$PROJECT_DIR$/src/com/greenfoxacademy/SubStrListHRD.java" />
+        <option value="$PROJECT_DIR$/src/com/greenfoxacademy/QuoteSwap.java" />
       </list>
     </option>
   </component>
@@ -219,7 +215,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -244,13 +239,14 @@
       </pane>
       <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533707395498" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../practise" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -362,17 +358,17 @@
       <workItem from="1533815776700" duration="102000" />
       <workItem from="1533822154540" duration="1640000" />
       <workItem from="1533902037401" duration="732000" />
+      <workItem from="1534189437902" duration="167000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26212000" />
+    <option name="totallyTimeSpent" value="26379000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1785174" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18078668" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -454,9 +450,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="213">
           <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -499,9 +492,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="217">
           <caret line="22" column="32" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
-          <folding>
-            <element signature="e#434#442#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -509,9 +499,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
           <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/greenfoxacademy/Reverse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/greenfoxacademy/SolarSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -529,13 +530,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/greenfoxacademy/QuoteSwap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="14" selection-end-line="27" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/greenfoxacademy/HeWillNever.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -550,9 +544,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/greenfoxacademy/SubIntHRD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="22" column="3" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/greenfoxacademy/SubStrListHRD.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
+        <state relative-caret-position="510">
           <caret line="32" column="28" selection-end-line="42" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -562,32 +566,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/greenfoxacademy/CalculatorGD.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="33" column="32" lean-forward="true" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
+        <state relative-caret-position="561">
+          <caret line="33" column="32" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/greenfoxacademy/SubIntHRD.java">
+    <entry file="file://$PROJECT_DIR$/src/com/greenfoxacademy/QuoteSwap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="22" column="3" lean-forward="true" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/greenfoxacademy/SolarSystem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/greenfoxacademy/Reverse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        <state relative-caret-position="442">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
         </state>
       </provider>
     </entry>
