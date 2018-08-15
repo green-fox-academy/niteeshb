@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6bc4ca2d-fe14-4fb5-8bbf-0de280a332e8" name="Default Changelist" comment="">
+    <list default="true" id="1bd1cc65-cd59-401e-928b-f53c060e88bf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/greenfoxacademy/DiceSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlogPost/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BlogPost/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Domino/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Domino/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -12,37 +15,37 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="677860524">
+    <session id="-1995391963">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="1" />
-          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.3" value="1" />
           <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="150" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="150" />
+          <entry key="java" value="149" />
         </counts>
       </usages-collector>
-      <usages-collector id="statistics.js.language.service.starts" />
-      <usages-collector id="statistics.spring.boot.mvc.usages" />
-      <usages-collector id="statistics.file.types.open">
+      <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1" />
+          <entry key="JAVA" value="149" />
         </counts>
       </usages-collector>
-      <usages-collector id="statistics.spring.boot.run.usages" />
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="java" value="1" />
         </counts>
       </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.spring.boot.mvc.usages" />
+      <usages-collector id="statistics.spring.boot.run.usages" />
     </session>
   </component>
   <component name="FileEditorManager">
@@ -50,17 +53,25 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/greenfoxacademy/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" selection-end-line="20" />
+            <state relative-caret-position="204">
+              <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/greenfoxacademy/BlogPost.java">
+        <entry file="file://$PROJECT_DIR$/src/com/greenfoxacademy/DiceSet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="292">
+              <caret line="36" column="24" lean-forward="true" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
+              <folding>
+                <element signature="e#533#534#0" expanded="true" />
+                <element signature="e#555#556#0" expanded="true" />
+                <element signature="e#589#590#0" expanded="true" />
+                <element signature="e#614#615#0" expanded="true" />
+                <element signature="e#774#775#0" expanded="true" />
+                <element signature="e#824#825#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -80,7 +91,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/greenfoxacademy/BlogPost.java" />
+        <option value="$PROJECT_DIR$/src/com/greenfoxacademy/DiceSet.java" />
         <option value="$PROJECT_DIR$/src/com/greenfoxacademy/Main.java" />
       </list>
     </option>
@@ -91,7 +102,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="627" />
     <option name="y" value="20" />
     <option name="width" value="687" />
@@ -103,23 +114,24 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="BlogPost" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BlogPost" type="462c0819:PsiDirectoryNode" />
+              <item name="DiceSet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DiceSet" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="BlogPost" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BlogPost" type="462c0819:PsiDirectoryNode" />
+              <item name="DiceSet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DiceSet" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="BlogPost" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BlogPost" type="462c0819:PsiDirectoryNode" />
+              <item name="DiceSet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DiceSet" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="greenfoxacademy" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -127,14 +139,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534336479364" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PostIt" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534339116199" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -151,7 +161,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.greenfoxacademy.Main" />
-      <module name="BlogPost" />
+      <module name="DiceSet" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -170,21 +180,20 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6bc4ca2d-fe14-4fb5-8bbf-0de280a332e8" name="Default Changelist" comment="" />
-      <created>1534327628867</created>
+      <changelist id="1bd1cc65-cd59-401e-928b-f53c060e88bf" name="Default Changelist" comment="" />
+      <created>1534336726477</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1534327628867</updated>
-      <workItem from="1534327633832" duration="2901000" />
+      <updated>1534336726477</updated>
+      <workItem from="1534336730273" duration="2403000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2901000" />
+    <option name="totallyTimeSpent" value="2403000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -223,17 +232,25 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/greenfoxacademy/BlogPost.java">
+    <entry file="file://$PROJECT_DIR$/src/com/greenfoxacademy/DiceSet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="292">
+          <caret line="36" column="24" lean-forward="true" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
+          <folding>
+            <element signature="e#533#534#0" expanded="true" />
+            <element signature="e#555#556#0" expanded="true" />
+            <element signature="e#589#590#0" expanded="true" />
+            <element signature="e#614#615#0" expanded="true" />
+            <element signature="e#774#775#0" expanded="true" />
+            <element signature="e#824#825#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/greenfoxacademy/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" selection-end-line="20" />
+        <state relative-caret-position="204">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
         </state>
       </provider>
     </entry>
