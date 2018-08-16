@@ -19,14 +19,12 @@ public class Bunny2 {
   private static int counterEar(int number) {
 
     if(number==0){
-      return sum;
-
+      return 0;
     } else
       if (number%2==0){
-      sum+=3;
-      }else sum+=2;
-
-    return (counterEar(number-1));
+        return 3+(counterEar(number-1));
+      }else
+    return 2+(counterEar(number-1));
   }
 }
 
