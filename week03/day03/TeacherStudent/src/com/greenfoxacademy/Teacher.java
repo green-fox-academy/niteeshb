@@ -13,7 +13,7 @@ Scanner userinput=new Scanner(System.in);
       System.out.println("The ans to this question is : "+ answer);
 
     }
-    
+
   }
   public void teach( ){
     System.out.println("enter the name of student");
