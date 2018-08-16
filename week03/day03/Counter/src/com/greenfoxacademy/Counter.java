@@ -3,12 +3,14 @@ package com.greenfoxacademy;
 public class Counter {
 
   static int counter;
+  int reset=0;
   public Counter(){
     counter=0;
   }
 
   public Counter(int counter){
     this.counter=counter;
+    reset=counter;
     System.out.println(counter);
   }
 
@@ -29,7 +31,9 @@ public class Counter {
   }
 
   public void reset(){
-    counter=0;
+    if (reset>0){
+      counter=reset;
+    }else counter=0;
     System.out.println(counter);
   }
 }

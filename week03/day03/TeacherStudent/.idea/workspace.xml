@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ee71f313-0695-4813-a512-b065d92fe377" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Counter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Counter.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/greenfoxacademy/Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/greenfoxacademy/Counter.java" afterDir="false" />
+    <list default="true" id="206a62df-a50e-4fde-a4cd-9cb08c249d0d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/greenfoxacademy/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Counter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Counter/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Counter/Counter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Counter/Counter.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Counter/out/production/Counter/com/greenfoxacademy/Counter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Counter/out/production/Counter/com/greenfoxacademy/Counter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Counter/src/com/greenfoxacademy/Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Counter/src/com/greenfoxacademy/Counter.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,32 +17,31 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="-891033726">
+    <session id="1159462429">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.35" value="1" />
           <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="399" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="399" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="3" />
+          <entry key="java" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="3" />
+          <entry key="JAVA" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="664" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="664" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -51,33 +54,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/greenfoxacademy/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/greenfoxacademy/CounterTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="170">
+              <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/greenfoxacademy/Counter.java">
+        <entry file="file://$PROJECT_DIR$/src/com/greenfoxacademy/Student.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="283">
-              <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
-              <folding>
-                <element signature="e#94#95#0" expanded="true" />
-                <element signature="e#113#114#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="408">
+              <caret line="24" column="56" selection-start-line="24" selection-start-column="56" selection-end-line="24" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/greenfoxacademy/Teacher.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="4" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -98,8 +94,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/com/greenfoxacademy/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/greenfoxacademy/CounterTest.java" />
-        <option value="$PROJECT_DIR$/src/com/greenfoxacademy/Counter.java" />
+        <option value="$PROJECT_DIR$/src/com/greenfoxacademy/Teacher.java" />
+        <option value="$PROJECT_DIR$/src/com/greenfoxacademy/Student.java" />
       </list>
     </option>
   </component>
@@ -109,7 +105,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="627" />
     <option name="y" value="20" />
     <option name="width" value="687" />
@@ -121,23 +117,21 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Counter" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Counter" type="462c0819:PsiDirectoryNode" />
+              <item name="TeacherStudent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TeacherStudent" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Counter" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Counter" type="462c0819:PsiDirectoryNode" />
+              <item name="TeacherStudent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TeacherStudent" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Counter" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Counter" type="462c0819:PsiDirectoryNode" />
+              <item name="TeacherStudent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TeacherStudent" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="greenfoxacademy" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -145,16 +139,15 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="Downloaded.Files.Path.Enabled" value="false" />
-    <property name="Repository.Attach.JavaDocs" value="false" />
-    <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534347588243" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534394911657" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -168,10 +161,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.CounterTest">
+  <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.greenfoxacademy.Main" />
-      <module name="Counter" />
+      <module name="TeacherStudent" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -179,74 +172,42 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CounterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Counter" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.greenfoxacademy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.greenfoxacademy" />
-      <option name="MAIN_CLASS_NAME" value="com.greenfoxacademy.CounterTest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="JUnit.CounterTest" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JUnit.CounterTest" />
-        <item itemvalue="Application.Main" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ee71f313-0695-4813-a512-b065d92fe377" name="Default Changelist" comment="" />
-      <created>1534344586650</created>
+      <changelist id="206a62df-a50e-4fde-a4cd-9cb08c249d0d" name="Default Changelist" comment="" />
+      <created>1534392679496</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1534344586650</updated>
-      <workItem from="1534344593903" duration="3249000" />
+      <updated>1534392679496</updated>
+      <workItem from="1534392707908" duration="2763000" />
     </task>
     <servers />
   </component>
-  <component name="TestHistory">
-    <history-entry file="CounterTest - 2018.08.15 at 17h 33m 07s.xml">
-      <configuration name="CounterTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CounterTest - 2018.08.15 at 17h 36m 33s.xml">
-      <configuration name="CounterTest" configurationId="JUnit" />
-    </history-entry>
-  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3249000" />
+    <option name="totallyTimeSpent" value="2763000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32843137" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32843137" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -271,29 +232,22 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/greenfoxacademy/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="170">
+          <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/greenfoxacademy/Counter.java">
+    <entry file="file://$PROJECT_DIR$/src/com/greenfoxacademy/Student.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
-          <folding>
-            <element signature="e#94#95#0" expanded="true" />
-            <element signature="e#113#114#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="408">
+          <caret line="24" column="56" selection-start-line="24" selection-start-column="56" selection-end-line="24" selection-end-column="56" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/greenfoxacademy/CounterTest.java">
+    <entry file="file://$PROJECT_DIR$/src/com/greenfoxacademy/Teacher.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="255">
+          <caret line="15" column="4" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
         </state>
       </provider>
     </entry>
