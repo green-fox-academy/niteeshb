@@ -24,10 +24,20 @@ public class Main {
 
 
     garden.statusOfPlants();
+    System.out.println();
 
     waterToDistribute = 40;
+    System.out.println("Watering with 40");
     garden.waterUsage();
     int plantNeedsWater = garden.countPlantsLessWater();
+    garden.waterPlants(plantNeedsWater, waterToDistribute);
+    garden.statusOfPlants();
+    System.out.println();
+
+    waterToDistribute = 70;
+    System.out.println("Watering with 70");
+    garden.waterUsage();
+    plantNeedsWater = garden.countPlantsLessWater();
     garden.waterPlants(plantNeedsWater, waterToDistribute);
     garden.statusOfPlants();
   }

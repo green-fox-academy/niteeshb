@@ -2,18 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb5e0c84-26d2-4b48-a1bb-eb0dfeb49fd6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Garden/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Garden/src/com/greenfoxacademy/Flower.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Garden/src/com/greenfoxacademy/Garden.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Garden/src/com/greenfoxacademy/Plant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Garden/src/com/greenfoxacademy/Tree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/greenfoxacademy/Cohort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/greenfoxacademy/Cohort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/greenfoxacademy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/greenfoxacademy/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/greenfoxacademy/Mentor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/greenfoxacademy/Mentor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/greenfoxacademy/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/greenfoxacademy/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/greenfoxacademy/Sponsor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/greenfoxacademy/Sponsor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/greenfoxacademy/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/greenfoxacademy/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Garden/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Garden/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Garden/out/production/Garden/com/greenfoxacademy/Garden.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Garden/out/production/Garden/com/greenfoxacademy/Garden.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Garden/out/production/Garden/com/greenfoxacademy/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Garden/out/production/Garden/com/greenfoxacademy/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Garden/src/com/greenfoxacademy/Garden.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Garden/src/com/greenfoxacademy/Garden.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Garden/src/com/greenfoxacademy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Garden/src/com/greenfoxacademy/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -211,7 +204,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534861741877" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534864753327" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">

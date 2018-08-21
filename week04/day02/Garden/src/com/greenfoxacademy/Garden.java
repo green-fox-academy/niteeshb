@@ -53,10 +53,10 @@ public class Garden {
   public void waterUsage() {
     for (int i = 0; i < flower1.size(); i++) {
 
-      flower1.get(i).water -= (Math.random() * 20);
+      flower1.get(i).water -= (Math.random() * 15);
     }
     for (int i = 0; i < tree1.size(); i++) {
-      tree1.get(i).water -= (Math.random() * 20);
+      tree1.get(i).water -= (Math.random() * 15);
     }
 
   }
