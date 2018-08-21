@@ -20,7 +20,7 @@ Sponsor(): sets name to Jane Doe, age to 30, gender to female, company to Google
 
 
   public void introduce(){
-    System.out.println("Hi, I'm name, a age year old gender who represents company and hired hiredStudents students so far.");
+    System.out.println("Hi, I'm "+ name+ ",a "  +age + " year old " +  gender+ " who represents "+  company +" and hired "+ hiredStudents+" students so far.");
   }
 
   public void hire(){

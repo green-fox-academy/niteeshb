@@ -17,16 +17,25 @@ The Cohort class has the following constructors:
 
 Cohort(name): beside the given parameter, it sets students and mentors as empty lists*/
 
-  String nameOfCohort;
-  ArrayList<String> students=new ArrayList<>();
-  ArrayList<String> mentors=new ArrayList<>();
+  String name;
+  ArrayList<Student> students;
+  ArrayList<Mentor> mentors;
 
-  public void addStudents(String student){
+  public void addStudent(Student student){
     students.add(student);
   }
 
-  public void addMentor(String mentor){
+  public void addMentor(Mentor mentor){
     mentors.add(mentor);
   }
 
+  public void info(){
+    System.out.println("The "+ name +" cohort has " + students.size() + " students and "+ mentors.size()+ " mentors.");
+  }
+
+  public Cohort(String name){
+    this.name=name;
+    students=new ArrayList<Student>();
+    mentors=new ArrayList<Mentor>();
+  }
 }

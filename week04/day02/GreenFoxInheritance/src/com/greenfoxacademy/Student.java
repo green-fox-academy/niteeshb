@@ -22,7 +22,7 @@ public class Student extends Person {
  }
 
  public void introduce(){
-   System.out.println("Hi, I'm"+ name+ ",a "  +age + " year old " +  gender + "from " +previousOrganisazion + "who skipped "+ skippedDays+ " days from the course.");
+   System.out.println("Hi, I'm "+ name+ ",a "  +age + " year old " +  gender + " from " +previousOrganisazion + " who skipped "+ skippedDays+ " days from the course.");
  }
 
  public void skipDays( int numberOfDays){
