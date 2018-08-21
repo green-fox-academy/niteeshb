@@ -12,9 +12,13 @@ public class Animal {
    int hunger;
    int thirst;
 
-  public Animal(){
-    hunger=50;
-    thirst=50;
+  public Animal() {
+  }
+
+  public Animal(int h, int t){
+    hunger=h;
+    thirst= t;
+    System.out.println("animal");
   }
 
   public void eat(){

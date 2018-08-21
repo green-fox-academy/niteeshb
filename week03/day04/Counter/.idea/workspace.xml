@@ -2,21 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff295b96-da8a-4116-8f33-3498d807a1f1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/greenfoxacademy/CircleFractal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day05/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day05/day05.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day05/src/com/greenfoxacademy/TriangleFractal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../day03/Domino/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day03/Domino/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day03/Domino/out/production/Domino/Domino.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../day03/Domino/out/production/Domino/Domino.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day03/Domino/out/production/Domino/Dominoes.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../day03/Domino/out/production/Domino/Dominoes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day03/Domino/src/Domino.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../day03/Domino/src/Domino.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day03/Domino/src/Dominoes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../day03/Domino/src/Dominoes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Counter/com/greenfoxacademy/Fibonacci.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Counter/com/greenfoxacademy/Fibonacci.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Counter/com/greenfoxacademy/String3DifferentApproach.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Counter/com/greenfoxacademy/String3DifferentApproach.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/greenfoxacademy/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/greenfoxacademy/Fibonacci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/greenfoxacademy/Refactorio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/greenfoxacademy/Refactorio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/greenfoxacademy/String3DifferentApproach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/greenfoxacademy/String3DifferentApproach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day05/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day05/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,6 +16,7 @@
     <session id="-539538740">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -45,12 +33,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="35" />
+          <entry key="java" value="45" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="35" />
+          <entry key="JAVA" value="45" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -126,7 +114,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/greenfoxacademy/CircleFractal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="33">
+            <state relative-caret-position="64">
               <caret line="21" column="40" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -190,7 +178,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="627" />
     <option name="y" value="20" />
     <option name="width" value="687" />
@@ -233,7 +221,7 @@
     <property name="SearchEverywhereHistoryKey" value="compareTo&#9;PSI&#9;JAVA://com.sun.org.apache.xalan.internal.xsltc.compiler.Whitespace.WhitespaceRule#compareTo&#10;compareTo(string)&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534509195319" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534516421976" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -340,15 +328,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1534408546964</updated>
-      <workItem from="1534408550810" duration="23138000" />
+      <workItem from="1534408550810" duration="23772000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23138000" />
+    <option name="totallyTimeSpent" value="23772000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -488,7 +476,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/greenfoxacademy/CircleFractal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="33">
+        <state relative-caret-position="64">
           <caret line="21" column="40" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />

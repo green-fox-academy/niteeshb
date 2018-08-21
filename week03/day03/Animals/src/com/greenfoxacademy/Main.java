@@ -6,16 +6,19 @@ public class Main {
 	// write your code here
 
 
-      Animal zebra=new Animal();
-      Animal cow=new Animal();
+      Animal name=new GoldenShephard();
+//      GoldenShephard name1=new GoldenShephard();
 
-
-      cow.eat();
-      cow.eat();
-
-      cow.play();
-
-      zebra.eat();
-      cow.drink();
+//      Animal zebra=new Animal();
+//      Animal cow=new Animal();
+//
+//
+//      cow.eat();
+//      cow.eat();
+//
+//      cow.play();
+//
+//      zebra.eat();
+//      cow.drink();
     }
 }
