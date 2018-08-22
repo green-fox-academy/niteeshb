@@ -2,7 +2,8 @@ package com.greenfoxacademy;
 
 public class Shifter implements CharSequence {
 
-  String string="";
+  String string = "";
+
   @Override
   public int length() {
     return 0;
@@ -14,13 +15,14 @@ public class Shifter implements CharSequence {
     char c = string.charAt(index);
     return c;
   }
-    public CharSequence subSequence(int start, int end) {
+
+  public CharSequence subSequence(int start, int end) {
 
 
     return null;
   }
 
-  public Shifter(String string,int t) {
+  public Shifter(String string, int t) {
     this.string = string.substring(t);
   }
 }

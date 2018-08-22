@@ -1,8 +1,9 @@
 package com.greenfoxacademy;
 
-public class Gnirts implements CharSequence,Cloneable {
+public class Gnirts implements CharSequence {
 
   String string;
+
   @Override
   public int length() {
     return 0;
@@ -11,7 +12,7 @@ public class Gnirts implements CharSequence,Cloneable {
   @Override
   public char charAt(int index) {
 
-char c=string.charAt(string.length()-index);
+    char c = string.charAt(string.length() - index);
     return c;
   }
 
@@ -21,6 +22,6 @@ char c=string.charAt(string.length()-index);
   }
 
   public Gnirts(String string) {
-    this.string=string;
+    this.string = string;
   }
 }
