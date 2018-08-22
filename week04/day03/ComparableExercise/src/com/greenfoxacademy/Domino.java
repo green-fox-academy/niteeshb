@@ -37,6 +37,7 @@ public class Domino implements Comparable{
       }
     return newdominos;
   }
+String s="gvshd";
 
   @Override
   public static int compareTo(Object o) {

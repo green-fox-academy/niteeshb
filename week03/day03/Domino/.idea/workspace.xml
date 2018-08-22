@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ef75d04-6de8-4787-ab01-8c66a779a1cf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../../week04/day03/CloneableProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week04/day03/CloneableProject/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week04/day03/CharSequenceExercise/src/com/greenfoxacademy/Gnirts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week04/day03/ComparableExercise/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week04/day03/ComparableExercise/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week04/day03/ComparableExercise/src/com/greenfoxacademy/Domino.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week04/day03/ComparableExercise/src/com/greenfoxacademy/Domino.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,7 +57,6 @@
         <entry file="file://$PROJECT_DIR$/src/Domino.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret lean-forward="true" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -124,7 +126,7 @@
     <property name="SearchEverywhereHistoryKey" value="getValues&#9;PSI&#9;JAVA://com.sun.org.apache.xerces.internal.util.SymbolHash#getValues" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534940986737" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534944587130" />
     <property name="full.screen.before.presentation.mode" value="false" />
   </component>
   <component name="RunDashboard">
@@ -181,12 +183,12 @@
       <workItem from="1534337188036" duration="630000" />
       <workItem from="1534498074528" duration="189000" />
       <workItem from="1534503779639" duration="6242000" />
-      <workItem from="1534939989510" duration="1090000" />
+      <workItem from="1534939989510" duration="1490000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14258000" />
+    <option name="totallyTimeSpent" value="14658000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -247,7 +249,6 @@
     <entry file="file://$PROJECT_DIR$/src/Domino.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret lean-forward="true" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
