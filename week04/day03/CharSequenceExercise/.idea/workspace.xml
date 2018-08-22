@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcd75c6a-0cde-4a96-aa53-9af3cbcfeb81" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../ModelInstruments/src/main/java/music/BassGuitar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ModelInstruments/src/main/java/music/ElectricGuitar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ModelInstruments/src/main/java/music/Violin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/greenfoxacademy/Gnirts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/greenfoxacademy/Gnirts.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ModelInstruments/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ModelInstruments/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ModelInstruments/src/main/java/music/Instrument.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ModelInstruments/src/main/java/music/Instrument.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CharSequenceExercise/com/greenfoxacademy/Gnirts.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CharSequenceExercise/com/greenfoxacademy/Gnirts.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CharSequenceExercise/com/greenfoxacademy/Shifter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CharSequenceExercise/com/greenfoxacademy/Shifter.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,6 +16,7 @@
     <session id="236808501">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -52,20 +48,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/greenfoxacademy/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+            <state relative-caret-position="153">
+              <caret line="9" lean-forward="true" selection-end-line="14" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/greenfoxacademy/Shifter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <state relative-caret-position="238">
+              <caret line="15" column="13" selection-end-line="28" />
               <folding>
                 <element signature="e#111#112#0" expanded="true" />
                 <element signature="e#129#130#0" expanded="true" />
@@ -79,8 +75,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/greenfoxacademy/Gnirts.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="43" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
+            <state relative-caret-position="187">
+              <caret line="12" column="21" selection-end-line="27" />
               <folding>
                 <element signature="e#110#111#0" expanded="true" />
                 <element signature="e#128#129#0" expanded="true" />
@@ -109,8 +105,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/com/greenfoxacademy/Shifter.java" />
-        <option value="$PROJECT_DIR$/src/com/greenfoxacademy/Main.java" />
         <option value="$PROJECT_DIR$/src/com/greenfoxacademy/Gnirts.java" />
+        <option value="$PROJECT_DIR$/src/com/greenfoxacademy/Main.java" />
       </list>
     </option>
   </component>
@@ -163,7 +159,7 @@
     <property name="SearchEverywhereHistoryKey" value="CharSequence&#9;PSI&#9;JAVA://java.lang.CharSequence&#10;Cloneable&#9;PSI&#9;JAVA://java.lang.Cloneable" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534948601035" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534948604564" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -204,16 +200,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1534942895074</updated>
-      <workItem from="1534942900668" duration="3528000" />
+      <workItem from="1534942900668" duration="3598000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3528000" />
+    <option name="totallyTimeSpent" value="3598000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -229,7 +224,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32843137" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32843137" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -266,17 +261,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/greenfoxacademy/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/greenfoxacademy/Shifter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        <state relative-caret-position="238">
+          <caret line="15" column="13" selection-end-line="28" />
+          <folding>
+            <element signature="e#111#112#0" expanded="true" />
+            <element signature="e#129#130#0" expanded="true" />
+            <element signature="e#365#366#0" expanded="true" />
+            <element signature="e#408#409#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/greenfoxacademy/Gnirts.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="43" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
+        <state relative-caret-position="187">
+          <caret line="12" column="21" selection-end-line="27" />
           <folding>
             <element signature="e#110#111#0" expanded="true" />
             <element signature="e#128#129#0" expanded="true" />
@@ -288,16 +289,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/greenfoxacademy/Shifter.java">
+    <entry file="file://$PROJECT_DIR$/src/com/greenfoxacademy/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="e#111#112#0" expanded="true" />
-            <element signature="e#129#130#0" expanded="true" />
-            <element signature="e#365#366#0" expanded="true" />
-            <element signature="e#408#409#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-end-line="14" />
         </state>
       </provider>
     </entry>

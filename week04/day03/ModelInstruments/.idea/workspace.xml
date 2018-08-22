@@ -2,13 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1bd9031-dd94-45c5-911a-4ba1a82e497b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/music/BassGuitar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/music/ElectricGuitar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/music/Violin.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CharSequenceExercise/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CharSequenceExercise/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CharSequenceExercise/src/com/greenfoxacademy/Gnirts.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CharSequenceExercise/src/com/greenfoxacademy/Gnirts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CharSequenceExercise/out/production/CharSequenceExercise/com/greenfoxacademy/Gnirts.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CharSequenceExercise/out/production/CharSequenceExercise/com/greenfoxacademy/Gnirts.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CharSequenceExercise/out/production/CharSequenceExercise/com/greenfoxacademy/Shifter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CharSequenceExercise/out/production/CharSequenceExercise/com/greenfoxacademy/Shifter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CloneableProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CloneableProject/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CloneableProject/src/com/greenfoxacademy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CloneableProject/src/com/greenfoxacademy/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CloneableProject/src/com/greenfoxacademy/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CloneableProject/src/com/greenfoxacademy/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CloneableProject/src/com/greenfoxacademy/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CloneableProject/src/com/greenfoxacademy/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/music/BassGuitar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/music/BassGuitar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/music/ElectricGuitar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/music/ElectricGuitar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/music/Instrument.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/music/Instrument.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/music/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/music/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/music/StringedInstrument.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/music/StringedInstrument.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/music/Violin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/music/Violin.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,8 +28,10 @@
     <session id="-399977804">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -37,12 +46,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="330" />
+          <entry key="java" value="437" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="330" />
+          <entry key="JAVA" value="437" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -55,17 +64,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/music/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="14" selection-start-column="14" selection-end-column="14" />
+            <state relative-caret-position="340">
+              <caret line="22" selection-end-line="29" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/music/Instrument.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="69" />
+              <caret line="5" column="24" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -73,8 +82,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/music/StringedInstrument.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="187">
+              <caret line="11" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -82,8 +91,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/music/ElectricGuitar.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="170">
+              <caret line="10" column="33" selection-end-line="19" />
             </state>
           </provider>
         </entry>
@@ -91,17 +100,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/music/BassGuitar.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+            <state relative-caret-position="221">
+              <caret line="13" column="3" selection-end-line="20" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/music/Violin.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+            <state relative-caret-position="238">
+              <caret line="15" column="8" selection-end-line="18" />
             </state>
           </provider>
         </entry>
@@ -121,11 +130,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/src/main/java/music/StringedInstrument.java" />
+        <option value="$PROJECT_DIR$/src/main/java/music/Instrument.java" />
+        <option value="$PROJECT_DIR$/src/main/java/music/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/music/ElectricGuitar.java" />
         <option value="$PROJECT_DIR$/src/main/java/music/BassGuitar.java" />
         <option value="$PROJECT_DIR$/src/main/java/music/Violin.java" />
-        <option value="$PROJECT_DIR$/src/main/java/music/Instrument.java" />
-        <option value="$PROJECT_DIR$/src/main/java/music/StringedInstrument.java" />
       </list>
     </option>
   </component>
@@ -147,6 +157,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -170,14 +182,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534948579207" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534949795126" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -202,6 +212,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -213,44 +228,46 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1534945544246</updated>
-      <workItem from="1534945550406" duration="2400000" />
+      <workItem from="1534945550406" duration="4485000" />
+      <workItem from="1534950809341" duration="23000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2400000" />
+    <option name="totallyTimeSpent" value="4508000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32843137" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32843137" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -260,45 +277,45 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/music/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/music/BassGuitar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        <state relative-caret-position="221">
+          <caret line="13" column="3" selection-end-line="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/music/ElectricGuitar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/music/BassGuitar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/music/Violin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        <state relative-caret-position="170">
+          <caret line="10" column="33" selection-end-line="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/music/StringedInstrument.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="187">
+          <caret line="11" selection-end-line="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/music/Instrument.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="69" />
+          <caret line="5" column="24" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/music/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="22" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/music/Violin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="15" column="8" selection-end-line="18" />
         </state>
       </provider>
     </entry>
