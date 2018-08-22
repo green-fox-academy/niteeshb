@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ef75d04-6de8-4787-ab01-8c66a779a1cf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../week04/day03/CharSequenceExercise/src/com/greenfoxacademy/Gnirts.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../week04/day03/ComparableExercise/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week04/day03/ComparableExercise/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../week04/day03/ComparableExercise/src/com/greenfoxacademy/Domino.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week04/day03/ComparableExercise/src/com/greenfoxacademy/Domino.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week04/day03/CharSequenceExercise/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week04/day03/CharSequenceExercise/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week04/day03/CharSequenceExercise/src/com/greenfoxacademy/Shifter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week04/day03/CharSequenceExercise/src/com/greenfoxacademy/Shifter.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -126,7 +124,7 @@
     <property name="SearchEverywhereHistoryKey" value="getValues&#9;PSI&#9;JAVA://com.sun.org.apache.xerces.internal.util.SymbolHash#getValues" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534944587130" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534945038589" />
     <property name="full.screen.before.presentation.mode" value="false" />
   </component>
   <component name="RunDashboard">
