@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7ef75d04-6de8-4787-ab01-8c66a779a1cf" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../../../week04/day03/CharSequenceExercise/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week04/day03/CharSequenceExercise/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../week04/day03/CharSequenceExercise/src/com/greenfoxacademy/Shifter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week04/day03/CharSequenceExercise/src/com/greenfoxacademy/Shifter.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,7 +15,7 @@
     <session id="916934907">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="2" />
@@ -118,13 +117,39 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Domino" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Domino" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Domino" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Domino" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Domino" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Domino" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="greenfoxacademy" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="getValues&#9;PSI&#9;JAVA://com.sun.org.apache.xerces.internal.util.SymbolHash#getValues" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534945038589" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534945459027" />
     <property name="full.screen.before.presentation.mode" value="false" />
   </component>
   <component name="RunDashboard">
@@ -181,18 +206,17 @@
       <workItem from="1534337188036" duration="630000" />
       <workItem from="1534498074528" duration="189000" />
       <workItem from="1534503779639" duration="6242000" />
-      <workItem from="1534939989510" duration="1490000" />
+      <workItem from="1534939989510" duration="1576000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14658000" />
+    <option name="totallyTimeSpent" value="14744000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.26096824" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />

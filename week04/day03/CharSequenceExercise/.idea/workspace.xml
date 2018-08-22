@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dcd75c6a-0cde-4a96-aa53-9af3cbcfeb81" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../../week03/day03/Domino/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week03/day03/Domino/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/greenfoxacademy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/greenfoxacademy/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/greenfoxacademy/Shifter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/greenfoxacademy/Shifter.java" afterDir="false" />
-    </list>
+    <list default="true" id="dcd75c6a-0cde-4a96-aa53-9af3cbcfeb81" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -159,7 +155,7 @@
     <property name="SearchEverywhereHistoryKey" value="CharSequence&#9;PSI&#9;JAVA://java.lang.CharSequence&#10;Cloneable&#9;PSI&#9;JAVA://java.lang.Cloneable" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534945139114" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534945556313" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -200,12 +196,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1534942895074</updated>
-      <workItem from="1534942900668" duration="2259000" />
+      <workItem from="1534942900668" duration="2547000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2259000" />
+    <option name="totallyTimeSpent" value="2547000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
