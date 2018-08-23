@@ -42,7 +42,13 @@ public class SumTest {
     Main main=new Main();
     Assert.assertEquals(2, main.sum(integer));
   }
+  @Test
+  public void testSumNullList(){
 
+    ArrayList<Integer> integer ;
+    Main main=new Main();
+    Assert.assertEquals(22, main.sum(integer));
+  }
 
 
 }
