@@ -12,6 +12,6 @@ public class Main {
       String string2=userinput.nextLine();
 
       Anagram anagram=new Anagram();
-      System.out.println(anagram.check(string1,string2));
+      System.out.println(anagram.checkAnagram(string1,string2));
     }
 }
