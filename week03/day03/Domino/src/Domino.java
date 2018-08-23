@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class Domino {
+public class Domino implements Printable {
   private final int[] values;
 
   public Domino(int valueA, int valueB) {
@@ -17,9 +17,9 @@ public class Domino {
   public String toString() {
     return "[" + values[0] + ", " + values[1] + "]";
   }
+ static ArrayList<Domino> newdominos= new ArrayList<>();
 
   static ArrayList<Domino> sortDomino(List<Domino> dominoes) {
-    ArrayList<Domino> newdominos= new ArrayList<>();
     newdominos.add(dominoes.get(0));
     for (int i = 0; i < dominoes.size() - 1; i++)
       for (int k = i + 1; k < dominoes.size(); k++) {
@@ -34,5 +34,12 @@ public class Domino {
 
       }
   return newdominos;
+  }
+
+  @Override
+  public void printAllFields() {
+    for (Domino d : newdominos ) {
+      d.printAllFields();
+    }
   }
 }

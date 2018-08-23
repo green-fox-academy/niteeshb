@@ -9,7 +9,7 @@ public class Dominoes {
     // eg: [2, 4], [4, 3], [3, 5] ...
 
     System.out.println(Domino.sortDomino(dominoes));
-
+    System.out.println(Domino.newdominos);
   }
 
 
