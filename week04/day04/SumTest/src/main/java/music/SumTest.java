@@ -25,12 +25,24 @@ public class SumTest {
   }
 
   @Test
-  public void testSum1(){
+  public void testSumEmptyList(){
 
     ArrayList<Integer> integer = new ArrayList<>();
 
     Main main=new Main();
-    Assert.assertEquals(22, main.sum(integer));
+    Assert.assertEquals(0, main.sum(integer));
   }
+
+  @Test
+  public void testSum1Element(){
+
+    ArrayList<Integer> integer = new ArrayList<>();
+    integer.add(2);
+
+    Main main=new Main();
+    Assert.assertEquals(2, main.sum(integer));
+  }
+
+
 
 }
