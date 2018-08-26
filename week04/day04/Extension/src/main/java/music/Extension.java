@@ -7,18 +7,23 @@ import java.util.List;
  */
 public class Extension {
   int add(int a, int b) {
-    return 5;
+    return a+b;
   }
 
   int maxOfThree(int a, int b, int c) {
-    if (a > b)
+    if ((a > b) && (a > c)) {
       return a;
-    else
-      return c;
+    } else if ((b > a) && (b > c)) {
+      return b;
+    } else return c;
   }
 
   int median(List<Integer> pool) {
-    return pool.get((pool.size()-1)/2);
+    int sum=0;
+    for (int i = 0; i < pool.size(); i++) {
+      sum=sum+pool.get(i);
+    }
+    return sum/pool.size();
   }
 
   boolean isVowel(char c) {

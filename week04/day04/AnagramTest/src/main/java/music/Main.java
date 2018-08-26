@@ -13,5 +13,7 @@ public class Main {
 
       Anagram anagram=new Anagram();
       System.out.println(anagram.checkAnagram(string1,string2));
+      System.out.println("adam");
+      System.out.println(anagram.findAnagrams("adam").toString());
     }
 }

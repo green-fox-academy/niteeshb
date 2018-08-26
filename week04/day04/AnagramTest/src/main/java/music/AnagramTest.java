@@ -12,6 +12,7 @@ public class AnagramTest {
     Anagram check=new Anagram();
     String s1="check";
     String s2="ccehk";
-    Assert.assertEquals(true,check.checkAnagram(s1,s2));
+    Assert.assertEquals("Your Method sucks"
+            ,true,check.checkAnagram(s1,s2));
   }
 }
