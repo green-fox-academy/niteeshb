@@ -145,7 +145,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536580508408" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536580678684" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -159,7 +159,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FrequencyOfCharacterExercise7">
+  <component name="RunManager" selected="Application.FrequencyOfNumbersExercise8">
     <configuration name="FrequencyOfCharacterExercise7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FrequencyOfCharacterExercise7" />
       <module name="day01" />
@@ -167,8 +167,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SquareOfPositiveNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SquareOfPositiveNumbers" />
+    <configuration name="FrequencyOfNumbersExercise8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FrequencyOfNumbersExercise8" />
       <module name="day01" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -196,19 +196,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SquareOfPositiveNumbers" />
       <item itemvalue="Application.SquaredMoreThan20Exercise4" />
       <item itemvalue="Application.UppercaseCharactersInStringExcersice5" />
       <item itemvalue="Application.StringStartsWithAExercise6" />
       <item itemvalue="Application.FrequencyOfCharacterExercise7" />
+      <item itemvalue="Application.FrequencyOfNumbersExercise8" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FrequencyOfNumbersExercise8" />
         <item itemvalue="Application.FrequencyOfCharacterExercise7" />
         <item itemvalue="Application.StringStartsWithAExercise6" />
         <item itemvalue="Application.UppercaseCharactersInStringExcersice5" />
         <item itemvalue="Application.SquaredMoreThan20Exercise4" />
-        <item itemvalue="Application.SquareOfPositiveNumbers" />
       </list>
     </recent_temporary>
   </component>
