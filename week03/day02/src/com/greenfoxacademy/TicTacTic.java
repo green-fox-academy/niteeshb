@@ -1,6 +1,5 @@
 package com.greenfoxacademy;
 
-import com.sun.java.util.*;
 
 import java.io.IOException;
 import java.nio.file.Files;

@@ -3,17 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="d3dfae29-ce95-4cbc-9e80-14b5ffb90270" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../../../week03/day02/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week03/day02/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../week03/day03/DiceSet/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week03/day03/DiceSet/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AnagramTest/main/java/music/Anagram.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AnagramTest/main/java/music/Anagram.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AnagramTest/main/java/music/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AnagramTest/main/java/music/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/music/Anagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/music/Anagram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/music/AnagramTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/music/AnagramTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/music/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/music/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Extension/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Extension/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Extension/Extension.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Extension/Extension.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Extension/src/main/java/music/Extension.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Extension/src/main/java/music/Extension.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Extension/src/main/java/music/ExtensionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Extension/src/main/java/music/ExtensionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week03/day02/my_file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week03/day02/my_file.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week03/day02/out/production/day02/com/greenfoxacademy/Logs.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week03/day02/out/production/day02/com/greenfoxacademy/Logs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week03/day02/out/production/day02/com/greenfoxacademy/ReadFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week03/day02/out/production/day02/com/greenfoxacademy/ReadFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week03/day02/src/com/greenfoxacademy/Logs.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week03/day02/src/com/greenfoxacademy/Logs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week03/day02/src/com/greenfoxacademy/ReadFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week03/day02/src/com/greenfoxacademy/ReadFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week03/day02/src/com/greenfoxacademy/TicTacTic.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week03/day02/src/com/greenfoxacademy/TicTacTic.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,11 +21,11 @@
     <session id="-332582344">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
-          <entry key="project.open.time.2" value="1" />
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.3" value="2" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -63,7 +58,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/music/AnagramTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7">
+            <state relative-caret-position="255">
               <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -75,7 +70,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/music/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7">
+            <state relative-caret-position="68">
               <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
             </state>
           </provider>
@@ -84,8 +79,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/music/Anagram.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="70">
-              <caret line="8" column="32" lean-forward="true" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+            <state relative-caret-position="529">
+              <caret line="35" column="42" selection-start-line="35" selection-start-column="42" selection-end-line="35" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -123,9 +118,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="627" />
-    <option name="y" value="20" />
-    <option name="width" value="687" />
+    <option name="y" value="1" />
+    <option name="width" value="1024" />
     <option name="height" value="678" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -265,6 +259,7 @@
       <workItem from="1535057136730" duration="1590000" />
       <workItem from="1535102045369" duration="4795000" />
       <workItem from="1535113586810" duration="5186000" />
+      <workItem from="1535702839711" duration="1103000" />
     </task>
     <servers />
   </component>
@@ -301,11 +296,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12771000" />
+    <option name="totallyTimeSpent" value="13874000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.25340393" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -326,6 +320,7 @@
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32843137" />
+      <window_info anchor="right" id="Key Promoter" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -347,7 +342,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/music/FindAnagrams.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/music/AnagramTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
+        <state relative-caret-position="255">
           <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -357,15 +352,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/music/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
+        <state relative-caret-position="68">
           <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/music/Anagram.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="8" column="32" lean-forward="true" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+        <state relative-caret-position="529">
+          <caret line="35" column="42" selection-start-line="35" selection-start-column="42" selection-end-line="35" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
