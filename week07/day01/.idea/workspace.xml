@@ -2,23 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b59367b-c96b-474b-a8e6-45d7594e173b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/day01.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springstart/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springstart/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springstart/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springstart/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springstart/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springstart/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springstart/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springstart/src/main/java/com/greenfoxacademy/springstart/SpringstartApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springstart/src/main/java/com/greenfoxacademy/springstart/controllers/Greetings.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springstart/src/main/java/com/greenfoxacademy/springstart/controllers/HelloRESTController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springstart/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springstart/src/test/java/com/greenfoxacademy/springstart/SpringstartApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week06/day04/springstart/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week06/day04/springstart/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springstart/src/main/java/com/greenfoxacademy/springstart/HelloWebController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springstart/src/main/java/com/greenfoxacademy/springstart/controllers/HelloWebController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springstart/src/main/java/com/greenfoxacademy/springstart/controllers/HelloRESTController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springstart/src/main/java/com/greenfoxacademy/springstart/controllers/HelloRESTController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springstart/src/main/resources/templates/greeting.html" beforeDir="false" afterPath="$PROJECT_DIR$/springstart/src/main/resources/templates/greeting.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,10 +17,11 @@
     <session id="1638356530">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.23" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -57,7 +45,7 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
@@ -80,7 +68,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -98,12 +86,75 @@
               <item name="day01" type="462c0819:PsiDirectoryNode" />
               <item name="springstart" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="day01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day01" type="462c0819:PsiDirectoryNode" />
+              <item name="springstart" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="day01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day01" type="462c0819:PsiDirectoryNode" />
+              <item name="springstart" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="day01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day01" type="462c0819:PsiDirectoryNode" />
+              <item name="springstart" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="day01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day01" type="462c0819:PsiDirectoryNode" />
+              <item name="springstart" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="day01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day01" type="462c0819:PsiDirectoryNode" />
+              <item name="springstart" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="greenfoxacademy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="day01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day01" type="462c0819:PsiDirectoryNode" />
+              <item name="springstart" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="greenfoxacademy" type="462c0819:PsiDirectoryNode" />
+              <item name="springstart" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="day01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day01" type="462c0819:PsiDirectoryNode" />
+              <item name="springstart" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="greenfoxacademy" type="462c0819:PsiDirectoryNode" />
+              <item name="springstart" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -137,16 +188,17 @@
       <updated>1537215993717</updated>
       <workItem from="1537216001553" duration="15419000" />
       <workItem from="1537268304803" duration="152000" />
+      <workItem from="1537271560294" duration="35000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15571000" />
+    <option name="totallyTimeSpent" value="15606000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -194,13 +246,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#487#488#0" expanded="true" />
-            <element signature="e#517#518#0" expanded="true" />
-            <element signature="e#561#562#0" expanded="true" />
-            <element signature="e#628#629#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>

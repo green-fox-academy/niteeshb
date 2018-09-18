@@ -2,24 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="57165016-8161-475b-901c-347e7f8ce8e1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/greenfoxacademy/springstart/SpringstartApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/greenfoxacademy/springstart/controllers/Greetings.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/greenfoxacademy/springstart/controllers/HelloRESTController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/greenfoxacademy/springstart/SpringstartApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../week07/day01/.idea/day01.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../week07/day01/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../week07/day01/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../week07/day01/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../week07/day01/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../week07/day01/springstart/src/main/java/com/greenfoxacademy/springstart/SpringstartApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week07/day01/springstart/src/main/java/com/greenfoxacademy/springstart/SpringstartApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week07/day01/springstart/src/main/java/com/greenfoxacademy/springstart/HelloWebController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week07/day01/springstart/src/main/java/com/greenfoxacademy/springstart/controllers/HelloWebController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week07/day01/springstart/src/main/java/com/greenfoxacademy/springstart/controllers/HelloRESTController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week07/day01/springstart/src/main/java/com/greenfoxacademy/springstart/controllers/HelloRESTController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week07/day01/springstart/src/main/resources/templates/greeting.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week07/day01/springstart/src/main/resources/templates/greeting.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -59,7 +45,7 @@
     <session id="274921455">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.80" value="1" />
           <entry key="project.open.time.87" value="1" />
@@ -70,7 +56,7 @@
         <counts>
           <entry key="class" value="1" />
           <entry key="gradle" value="1" />
-          <entry key="html" value="1" />
+          <entry key="html" value="2" />
           <entry key="java" value="6" />
         </counts>
       </usages-collector>
@@ -78,18 +64,20 @@
         <counts>
           <entry key="CLASS" value="1" />
           <entry key="Groovy" value="1" />
-          <entry key="HTML" value="1" />
+          <entry key="HTML" value="2" />
           <entry key="JAVA" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="357" />
+          <entry key="html" value="24" />
+          <entry key="java" value="430" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="357" />
+          <entry key="HTML" value="24" />
+          <entry key="JAVA" value="430" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.spring.boot.run.usages" />
@@ -118,11 +106,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../../week07/day01/springstart/src/main/java/com/greenfoxacademy/springstart/HelloWebController.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../../../week07/day01/springstart/src/main/java/com/greenfoxacademy/springstart/controllers/HelloWebController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+            <state relative-caret-position="238">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -130,8 +118,17 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../../../week07/day01/springstart/src/main/resources/templates/greeting.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../../week07/day01/springstart/src/main/resources/templates/hi.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
               <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
@@ -142,8 +139,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../../../week07/day01/springstart/src/main/java/com/greenfoxacademy/springstart/controllers/HelloRESTController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="3" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+            <state relative-caret-position="247">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -154,11 +151,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../../../week07/day01/springstart/src/main/java/com/greenfoxacademy/springstart/controllers/Greetings.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="306">
+              <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
               <folding>
                 <element signature="e#292#293#0" expanded="true" />
                 <element signature="e#311#312#0" expanded="true" />
+                <element signature="e#343#344#0" expanded="true" />
+                <element signature="e#367#368#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -583,7 +582,11 @@
         <option value="$PROJECT_DIR$/../../../week07/day01/springstart/src/main/java/com/greenfoxacademy/springstart/SpringstartApplication.java" />
         <option value="$PROJECT_DIR$/../../../week07/day01/springstart/src/main/java/com/greenfoxacademy/springstart/HelloWebController.java" />
         <option value="$PROJECT_DIR$/../../../week07/day01/springstart/src/main/resources/templates/greetings.html" />
+        <option value="$PROJECT_DIR$/../../../week07/day01/springstart/src/main/java/com/greenfoxacademy/springstart/controllers/Greetings.java" />
         <option value="$PROJECT_DIR$/../../../week07/day01/springstart/src/main/resources/templates/greeting.html" />
+        <option value="$PROJECT_DIR$/../../../week07/day01/springstart/src/main/resources/templates/hi.html" />
+        <option value="$PROJECT_DIR$/../../../week07/day01/springstart/src/main/java/com/greenfoxacademy/springstart/controllers/HelloWebController.java" />
+        <option value="$PROJECT_DIR$/../../../week07/day01/springstart/src/main/java/com/greenfoxacademy/springstart/controllers/HelloRESTController.java" />
       </list>
     </option>
   </component>
@@ -593,7 +596,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="627" />
     <option name="y" value="20" />
     <option name="width" value="687" />
@@ -659,14 +662,6 @@
             </path>
             <path>
               <item name="springstart" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springstart" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springstart" type="b2602c69:ProjectViewProjectNode" />
               <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
             </path>
           </expand>
@@ -685,7 +680,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537269310697" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537271391980" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../week07/day01" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -732,15 +727,15 @@
       <updated>1537184736235</updated>
       <workItem from="1537184744447" duration="5442000" />
       <workItem from="1537191426329" duration="4430000" />
-      <workItem from="1537268277659" duration="806000" />
+      <workItem from="1537268277659" duration="2950000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10678000" />
+    <option name="totallyTimeSpent" value="12822000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
@@ -753,7 +748,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32843137" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29738563" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -779,6 +774,43 @@
       <window_info anchor="right" id="Theme Preview" order="10" />
       <window_info anchor="right" id="Bean Validation" order="11" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.8202614" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.32843137" />
+      <window_info anchor="bottom" id="Spring" order="8" weight="0.32843137" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.66013074" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32843137" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32843137" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Gradle" order="6" weight="0.32980332" />
+      <window_info anchor="right" id="Key Promoter" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+      <window_info anchor="right" id="Bean Validation" order="11" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -798,27 +830,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../../week07/day01/springstart/src/main/java/com/greenfoxacademy/springstart/controllers/Greetings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="e#292#293#0" expanded="true" />
-            <element signature="e#311#312#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../week07/day01/springstart/src/main/java/com/greenfoxacademy/springstart/controllers/HelloRESTController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="3" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../../week07/day01/springstart/src/main/java/com/greenfoxacademy/springstart/SpringstartApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -826,20 +837,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../../week07/day01/springstart/src/main/java/com/greenfoxacademy/springstart/HelloWebController.java">
+    <entry file="file://$PROJECT_DIR$/../../../week07/day01/springstart/src/main/resources/templates/greeting.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        <state relative-caret-position="170">
+          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../week07/day01/springstart/src/main/resources/templates/hi.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../week07/day01/springstart/src/main/java/com/greenfoxacademy/springstart/controllers/Greetings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+          <folding>
+            <element signature="e#292#293#0" expanded="true" />
+            <element signature="e#311#312#0" expanded="true" />
+            <element signature="e#343#344#0" expanded="true" />
+            <element signature="e#367#368#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../week07/day01/springstart/src/main/java/com/greenfoxacademy/springstart/controllers/HelloRESTController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../../week07/day01/springstart/src/main/resources/templates/greeting.html">
+    <entry file="file://$PROJECT_DIR$/../../../week07/day01/springstart/src/main/java/com/greenfoxacademy/springstart/controllers/HelloWebController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
