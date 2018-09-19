@@ -1,0 +1,76 @@
+body {
+  background-color: rgb(209, 204, 204);
+}
+
+.totheleft {
+  float: left;
+}
+
+.tothecenter {
+ float: left;
+ margin: 75px 0 0 75px;
+}
+
+.totheright {
+  width: 200px;
+  height: 50px;
+  font-size: 15px;
+  float: right;
+}
+
+form {
+  margin: 0 auto;
+  width: 600px;
+  height: 450px;
+  background-color: rgb(255, 255, 255);
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-weight: 100;
+  padding: 50px;
+}
+
+#title {
+  font-size: 30px;
+  margin-bottom: 30px;
+}
+
+input {
+  width: 200px;
+  height: 50px;
+  border-style: hidden;
+  border: 0;
+  border-bottom: 2px solid rgb(35, 205, 211);
+  outline: 0;
+  font-size: 20px;
+}
+
+button {
+  font-size: 15px;
+  border: 0px;
+  width: 150px;
+  height: 50px;
+  background-color: rgb(35, 205, 211);
+  color:white;
+  margin-top: 30px;
+}
+
+#facebook {
+  background-color: rgb(11, 11, 131);
+}
+
+#twitter {
+  background-color: rgb(67, 168, 236);
+}
+
+#google {
+  background-color: rgb(204, 15, 15);
+}
+
+#or {
+  width: 60px;
+  height: 60px;
+  font-size: 30px;
+  text-align: center;
+  background-color: bisque;
+  border-radius: 30px;
+  color: black;
+}
