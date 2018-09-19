@@ -17,10 +17,10 @@ public class BankAccountController {
   public String showBankAccount(Model model) {
     BankAccount bankAccount = new BankAccount("simba", 2000, "lion",true);
     model.addAttribute("bankAccountAttribute", bankAccount);
-
     System.out.println(bankAccount.getBalance());
     return "show-bankAccount";
   }
+
 
   @GetMapping("/enjoy")
   public String enjoyYourself(Model model) {
