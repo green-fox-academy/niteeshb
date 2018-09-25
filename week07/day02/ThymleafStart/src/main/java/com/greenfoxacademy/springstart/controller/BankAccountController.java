@@ -39,4 +39,9 @@ public class BankAccountController {
     model.addAttribute("bankList", allBankAccounts);
     return "show-allBankAccounts";
   }
+
+  @GetMapping("/hello")
+  public String callHello(){
+    return "Hello";
+  }
 }
