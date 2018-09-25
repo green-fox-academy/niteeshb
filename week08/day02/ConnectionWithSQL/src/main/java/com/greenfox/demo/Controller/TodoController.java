@@ -1,6 +1,6 @@
-package Controller;
+package com.greenfox.demo.Controller;
 
-import Repository.RepositoryInterface;
+import com.greenfox.demo.Repository.RepositoryInterface;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

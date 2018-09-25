@@ -3,13 +3,45 @@
 <head>
     <meta charset="UTF-8"/>
     <title>Todo CRUD App</title>
+    <style>
+        table, th, td {
+            border: 1px solid black;
+        }
+
+        table {
+            border-collapse: collapse;
+        }
+
+
+        thead {
+            padding-top: 12px;
+            padding-bottom: 12px;
+            text-align: left;
+            background-color: #4CAF50;
+            color: white;}
+    </style>
 </head>
 <body>
 <h2>TODOs For Today</h2>
-<ul th:each="Todo: ${todoList}">
-    <li th:text="${Todo.getTitle()}"></li>
+<table>
+    <thead>
+    <tr>
+        <td>Id</td>
+        <td>Action</td>
+        <td>Done</td>
+        <td>urgent</td>
+    </tr>
 
+    </thead>
 
-</ul>
+    <tbody th:each="Todo: ${todoList}">
+    <td th:text="${Todo.getId()}"></td>
+    <td th:text="${Todo.getTitle()}"></td>
+    <td th:text="${Todo.isDone()}"></td>
+    <td th:text="${Todo.isUrgent()}"></td>
+
+    </tbody>
+</table>
+
 </body>
 </html>

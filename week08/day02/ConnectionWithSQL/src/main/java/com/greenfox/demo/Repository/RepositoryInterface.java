@@ -1,4 +1,4 @@
-package Repository;
+package com.greenfox.demo.Repository;
 
 import com.greenfox.demo.Model.Todo;
 import org.springframework.data.repository.CrudRepository;
