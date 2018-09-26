@@ -5,8 +5,8 @@
     <title>Add ToDo</title>
 </head>
 <body>
-
-<form action="#" th:action="@{todo/save}" th:object="${newTodo}" method="post">
+<h3>Add ToDo</h3>
+<form action="#" th:action="@{/save}" th:object="${newTodo}" method="post">
     <input type="text" name="title"/>
     Urgent
     <input type="checkbox" name="urgent"/>

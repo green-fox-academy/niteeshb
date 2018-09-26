@@ -44,9 +44,9 @@ if (done!=null && done.equals("true") ) {
     return "todoAdd";
 }
 
-  @PostMapping(value = "todo/save")
+  @PostMapping(value = "save")
   public String SaveTodo(@ModelAttribute("newTodo") Todo newTodo, Model model) {
     repositoryInterface.save(newTodo);
-    return "redirect:/todoslist";
+    return "redirect:/todo";
   }
 }
