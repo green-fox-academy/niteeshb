@@ -5,10 +5,7 @@ import com.greenfox.demo.Repository.RepositoryInterface;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.ModelAttribute;
-import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.bind.annotation.*;
 
 @Controller
 public class TodoController {
@@ -24,29 +21,40 @@ public class TodoController {
   }
 
   @GetMapping(value = {"/", "/list"})
-  public String list(Model model) {
-
+  public String getPeople(@RequestParam(value = "done", required = false) String done, Model model) {
+    if (done == null || done.equals("false")) {
+      model.addAttribute("todoList", repositoryInterface.findAll());
+    } else model.addAttribute("todoList", repositoryInterface.findAllByDoneIsTrue());
     return "todoslist";
   }
 
-  @GetMapping("/todo")
-  public String getPeople(@RequestParam(value = "done", required = false) String done, Model model) {
-if (done!=null && done.equals("true") ) {
-  boolean boolean2 = Boolean.parseBoolean("true");
-  model.addAttribute("todoList", repositoryInterface.findAllByDoneIsTrue());
-}else model.addAttribute("todoList", repositoryInterface.findAll());
-      return "todoslist";
-
+  @GetMapping("/add")
+  public String addTodo(Model model) {
+  model.addAttribute("todo",new Todo());
+  return "todoAdd";
   }
 
-@GetMapping("todo/add")
-  public String showTodoAdd(){
-    return "todoAdd";
-}
+  @PostMapping("/add")
+  public String SaveTodo(@ModelAttribute Todo todo) {
+    repositoryInterface.save(todo);
+    return "redirect:";
+  }
 
-  @PostMapping(value = "save")
-  public String SaveTodo(@ModelAttribute("newTodo") Todo newTodo, Model model) {
-    repositoryInterface.save(newTodo);
-    return "redirect:/todo";
+  @GetMapping("/{id}/delete")
+  public String deleteTodo(@PathVariable ("id") long id){
+    repositoryInterface.deleteById(id);
+    return "redirect:/";
+  }
+
+  @GetMapping("/{id}/update")
+  public String updateTodo(@PathVariable ("id") long id,Model model){
+    model.addAttribute("todo",repositoryInterface.findById(id).get());
+    return "editTodo";
+  }
+
+  @PostMapping("/{id}/update")
+  public String saveUpdate(@ModelAttribute Todo todo){
+    repositoryInterface.save(todo);
+    return "redirect:/";
   }
 }

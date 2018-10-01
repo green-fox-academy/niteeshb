@@ -21,8 +21,9 @@ public class DemoApplication implements CommandLineRunner {
     SpringApplication.run(DemoApplication.class, args);
   }
 
-  @Override
-  public void run(String... args) throws Exception {
-repositoryInterface.save(new Todo("I have to learn Object Relational Mapping"));
-  }
+
+    @java.lang.Override
+    public void run(java.lang.String... args) throws Exception {
+        repositoryInterface.save(new Todo("I have to learn Object Relational Mapping"));
+    }
 }
