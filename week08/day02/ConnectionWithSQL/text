@@ -1,0 +1,7 @@
+@one to one (cascade=cascade .all mappedby="owner" fetch =fetchtype.lazy)
+(cascade=cascade .all) used to save the subset oject immediately . but the subset also dies when parent is deleted
+mappedby="owner"
+
+(fetch =fetchtype.lazy) this helps to fetch the result from the other table automatically or not.lazy defaut with one to many.
+
+@Transactional
